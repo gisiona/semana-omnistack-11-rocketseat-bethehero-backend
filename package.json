@@ -1,0 +1,35 @@
+{
+  "name": "backend-bethehero",
+  "version": "1.0.0",
+  "description": "Código da aplicação back-end NodeJS desenvolvido durante a Semana OmniStack 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gisiona/semana-omnistack-11-rocketseat-bethehero-backend.git"
+  },
+  "keywords": [
+    "back-end",
+    "be-the-hero",
+    "nodejs",
+    "rocketseat"
+  ],
+  "author": "Gisiona Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gisiona/semana-omnistack-11-rocketseat-bethehero-backend/issues"
+  },
+  "homepage": "https://github.com/Gisiona/semana-omnistack-11-rocketseat-bethehero-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
