@@ -2,21 +2,13 @@
 Código da aplicação backend desenvolvido durante a Semana OmniStack 11 - BeTheHero
 
 <h1 align="center">
-    <img alt="Semana OmniStack" src="https://i.pinimg.com/originals/2c/7f/ab/2c7fab0f6656f17e4a8bac3d600900b1.png" width="200px" />
+    <img alt="Semana OmniStack" src="https://i.pinimg.com/originals/2c/7f/ab/2c7fab0f6656f17e4a8bac3d600900b1.png" />
 </h1>
 
 <h2 align="center">
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 <br>
 
